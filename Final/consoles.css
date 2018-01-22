@@ -1,0 +1,23 @@
+  @font-face {
+        font-family: sp;
+        src: url('fonts/slimplay.ttf')
+     }
+        h1 {
+            font-family:sp;
+            font-size:340%;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+            right:55%;
+        }
+        .ps {
+            bottom:85%;
+            position: absolute;
+            right:88%;
+        }
+             img:hover {
+         background-color:#2C7DD8;
+     }
+     body {
+         background: url(images/ps1.jpg)   top no-repeat;
+     }
