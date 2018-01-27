@@ -19,5 +19,10 @@
          background-color:#2C7DD8;
      }
      body {
-         background: url(images/ps1.jpg)   top no-repeat;
+        background: url(images/psback3.jpg)  top no-repeat; 
+        
+     }
+     .consoles{
+         position:absolute;
+         text-align:center;
      }

@@ -1,0 +1,164 @@
+  @font-face {
+        font-family: sp;
+        src: url('fonts/slimplay.ttf')
+     }
+     h1{
+           font-family:sp;
+            font-size:300%;
+            text-align:  center;
+            font-weight: bold;
+            color: #001797;
+            right:55%;
+            margin-top:60px;
+            
+     }
+     body{
+       background:url(images/psback4.jpg) top no-repeat;
+       background-color:#2A629E;
+       
+         
+     }
+     .ps{
+         left:0%;
+         top:30%;
+         position:absolute;
+         	border-top-left-radius: 15px;
+border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+border: 10px ridge #154297;
+
+		
+
+     }
+     .pssymbol:hover{
+           background-color:#2C7DD8;
+     }
+     .pssymbol{
+         left:5%;
+         top:2%;
+         position:absolute
+     }
+     .a{
+          font-family:sp;
+        font-size:190%;
+        color:#001797;
+        font-weight:bold;
+        text-decoration:underline;
+        text-align:center;
+        margin-right:430px;
+        margin-top:50px;
+         
+     }
+     .p1{
+         font-size:170%;
+         text-align:left;
+         color:white;
+         margin-left:375px;
+         margin-top:5px;
+     }
+     h2{
+        font-family:sp;
+        font-size:190%;
+        color:#001797;
+        font-weight:bold;
+        text-decoration:underline;
+        text-align:left; 
+        
+     }
+     .p2{
+        font-size:170%;
+         text-align:left;
+         color:white;  
+     }
+         .b{
+             font-family:sp;
+        font-size:190%;
+        color:#001797;
+        font-weight:bold;
+        text-decoration:underline;
+        text-align:center;  
+         }
+         .c{
+             left:10%;
+         top:120%;
+         position:absolute;
+         	border-top-left-radius: 15px;
+
+	border-top-right-radius: 15px;
+
+border: 10px ridge #154297; 
+         }
+         .d{
+             right:10%;
+             top:120%;
+               position:absolute;
+         	border-top-left-radius: 15px;
+
+	border-top-right-radius: 15px;
+
+border: 10px ridge #154297; 
+         }
+         .e{
+           font-family:sp;
+        font-size:190%;
+        color:#001797;
+        font-weight:bold;
+        text-decoration:underline;
+        text-align:left; 
+        margin-top:300px;
+         }
+         .p3{
+           font-size:170%;
+         text-align:left;
+         color:white;  
+         margin-top:-7px;
+         }
+         .album img{
+           	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+border: 10px ridge #154297;   
+         }
+         .image2{
+            margin-left:145px; 
+         }
+         .image3{
+             margin-left:150px;
+         }
+         .album1 image1{
+           margin-left:30%;  
+         }
+         .album1 img{
+              	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+border: 10px ridge #154297; 
+         }
+         .image1{
+             margin-left:85px;
+         }
+          .album2 img{
+              	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+border: 10px ridge #154297; 
+         }
+         .image1{
+             margin-left:130px;
+         }
+         .f{
+           font-family:sp;
+            font-size:200%;
+            text-align:  center;
+            font-weight: bold;
+            color: #001797;
+            margin-right:70px;
+            margin-top:60px;
+               
+         }
+         
+         
+         
+         
+         
+         
+         
+     
